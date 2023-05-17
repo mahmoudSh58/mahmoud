@@ -17,7 +17,7 @@ body{
     height: 0;
 }
 
-.d1,.d2,.d3,.d4,.d5{
+.d1,.d2,.d3,.d4,.d5,.d6,.d7{
     margin-left: 25px;
     margin-top: calc( 50vh - 50px);
     display: inline-flex;
@@ -31,7 +31,7 @@ body{
     margin-left: 0px;
 }
 
-.d5 {
+.d7 {
     transform: translateY(calc( -50vh - 42px));
     animation: top 8s 200ms forwards infinite;
 }
@@ -45,7 +45,7 @@ body{
     }
 }
 
-.d2,.d3,.d4 {
+.d2,.d3,.d4,.d5,.d6 {
     font-size: 0px;
     animation: l 8s 200ms forwards infinite;
 }
