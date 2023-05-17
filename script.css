@@ -81,7 +81,7 @@ body{
 
 @keyframes wi {
     50% {
-        width: 650px;
+        width: 840px;
         margin-left: calc(50% - 325px);
     }
 }
